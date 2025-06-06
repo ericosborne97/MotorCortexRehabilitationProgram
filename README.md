@@ -58,12 +58,6 @@
 | OS            | Windows 10 / 11 (64-bit) |
 | CPU           | x86-64 with SSE4.1 |
 | RAM           | 4 GB |
-| Camera        | 720 p @ 30 fps or better |
+| Camera        | Even cameras of low quality will work |
 
 ---
-
-## 🧑‍💻 Building from Source (Developers)
-```bash
-git clone https://github.com/YourUser/motor-cortex-rehab.git
-cd motor-cortex-rehab
-# Open the project in Unity 2022 LTS, then Build → Windows x86_64
