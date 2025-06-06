@@ -1,4 +1,4 @@
-# 🧠 Motor Cortex Rehabilitation Program
+# <img src="Unity Project/logo.ico" alt="Motor Cortex Rehab Logo" width="42" height="42"/> Motor Cortex Rehabilitation Program
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Unity 2022 LTS](https://img.shields.io/badge/Unity-2022_LTS-black?logo=unity)](https://unity.com/)
 [![Platform: Windows x64](https://img.shields.io/badge/Platform-Windows_x64-blue)](#)  
