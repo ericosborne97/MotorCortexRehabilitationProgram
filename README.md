@@ -49,9 +49,9 @@
 ---
 
 ## 🚀 Quick Start (End Users)
-1. **Download** the latest release ZIP from the [Releases](https://github.com/ericosborne97/MotorCortexRehabilitationProgram/releases) page.  
-2. **Extract** the archive anywhere (e.g., `C:\Programs\MotorCortexRehab\`).  
-3. **Run** `MotorCortexRehab.exe`. The app will open full-screen and guide you through camera setup.  
+**Download** the latest release from the [Releases](https://github.com/ericosborne97/MotorCortexRehabilitationProgram/releases) page.  
+
+---
 
 | Minimum specs | Value |
 |---------------|-------|
